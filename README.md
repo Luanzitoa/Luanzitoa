@@ -1,8 +1,8 @@
 ### Olá eu sou o Luan Albuquerque, me chama de Luanzito!
 
 <div align="center">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Luanzitoa&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&text_color=ffffff&title_color=cf0e0e&icon_color=ff0000"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luanzitoa&layout=compact&langs_count=7&&bg_color=000000&text_color=ffffff&title_color=cf0e0e&icon_color=ff0000"/>
+  <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=Luanzitoa&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&text_color=ffffff&title_color=cf0e0e&icon_color=ff0000"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luanzitoa&layout=compact&langs_count=7&&bg_color=000000&text_color=ffffff&title_color=cf0e0e&icon_color=ff0000"/>
 </div>
  
  <div align="center">
