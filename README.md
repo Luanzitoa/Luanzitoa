@@ -1,9 +1,8 @@
-### Olá eu sou o Luan Albuquerque, mas pode me chamar de Luanzito
+### Olá eu sou o Luan Albuquerque, me chama de Luanzito!
 
 <div align="center">
-  <a href="https://github.com/Luanzitoa">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Luanzitoa&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&text_color=ffffff&title_color=cf0e0e&icon_color=ff0000"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luanzitoa&layout=compact&langs_count=7&&bg_color=000000&text_color=ffffff&title_color=cf0e0e&icon_color=ff0000"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Luanzitoa&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&text_color=ffffff&title_color=cf0e0e&icon_color=ff0000"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luanzitoa&layout=compact&langs_count=7&&bg_color=000000&text_color=ffffff&title_color=cf0e0e&icon_color=ff0000"/>
 </div>
  
  <!--
@@ -20,7 +19,7 @@
   
   ##
  
-<div>
+<div align="center">
   <a height="50" width="20" href="https://www.instagram.com/luanzitoa" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a height="50" width="20" href = "mailto:luanlimaalbuquerque.la@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
   <a height="50" width="20" href="https://www.linkedin.com/in/luan-albuquerque-0b591a233" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
